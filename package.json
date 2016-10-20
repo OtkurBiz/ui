@@ -48,10 +48,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:shoutem/ui.git"
+    "url": "git+ssh://git@github.com:OtkurBiz/ui.git"
   },
   "license": "BSD-3-Clause",
   "maintainers": [
+    {
+      "email": "boyaq@otkur.biz",
+      "name": "Alim"
+    },
     {
       "email": "bruna.andjelic@gmail.com",
       "name": "bAndelic"
